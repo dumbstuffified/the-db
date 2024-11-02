@@ -1,0 +1,4 @@
+filetype=cur
+createdate=11/2/2024
+createtime=16:53
+createtz=EDT
